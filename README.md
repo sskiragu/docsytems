@@ -1,0 +1,1 @@
+Simple application to store and manage the file documents of a certain company or organization.
